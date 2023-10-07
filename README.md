@@ -21,3 +21,8 @@
 
 ### WikiPathways
 - WikiPathways SPARQL queries https://www.wikipathways.org/sparql.html
+
+
+## References
+1. Kanehisa, M., Furumichi, M., Sato, Y., Kawashima, M. and Ishiguro-Watanabe, M.; KEGG for taxonomy-based analysis of pathways and genomes. Nucleic Acids Res. 51, D587-D592 (2023).
+2. 
