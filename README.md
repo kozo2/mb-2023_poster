@@ -3,9 +3,8 @@
 ## workflow
 
 1. Create a table like https://pathbank.org/downloads/pathbank_all_metabolites.csv.zip for each pathway database
-2. Get all "MS" (not NMR) MWB study IDs
-3. Get all refmet IDs for each MWB study ID
-4. FILLME
+2. Create a table like https://pathbank.org/downloads/pathbank_all_metabolites.csv.zip for each MW "MS (not NMR)" study
+3. FILLME
 
 ## databases
 
