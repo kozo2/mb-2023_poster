@@ -6,6 +6,11 @@
 2. Create a table like https://pathbank.org/downloads/pathbank_all_metabolites.csv.zip for each MW "MS (not NMR)" study
 3. FILLME
 
+### MW sub workflow
+
+1. FILTER "analysis_type   MS" from study-study_id-ST-named_metabolites.json
+2. FILLME
+
 ## databases
 
 ### KEGG (API)
