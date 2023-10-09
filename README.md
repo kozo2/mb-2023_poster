@@ -27,6 +27,18 @@
 - WikiPathways SPARQL queries https://www.wikipathways.org/sparql.html
 
 
+### keep
+- https://docs.chemaxon.com/display/docs/molconvert.md
+- https://ftp.ncbi.nlm.nih.gov/pubchem/Compound/Extras/
+
+```
+>>> import subprocess
+>>> output = subprocess.run(["molconvert", "inchikey", "C01041.mol"], capture_output=True, text=True).stdout
+>>> print(output)
+InChIKey=CIWBSHSKHKDKBQ-JLAZNSOCSA-N
+```
+
+
 ## References
 1. Kanehisa, M., Furumichi, M., Sato, Y., Kawashima, M. and Ishiguro-Watanabe, M.; KEGG for taxonomy-based analysis of pathways and genomes. Nucleic Acids Res. 51, D587-D592 (2023).
 2. 
